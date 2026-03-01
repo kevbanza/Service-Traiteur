@@ -59,15 +59,14 @@ On the management side, the catering service can manage orders, products, catego
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/catering-service.git
-cd catering-service
+git clone https://github.com/kevbanza/Service-Traiteur.git
+cd service-traiteur
 ```
 
 ### 2. Install dependencies
 
 ```bash
 composer install
-npm install
 ```
 
 ### 3. Configure environment file
